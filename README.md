@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nathan Drake</h1>
 <h3 align="center">A Full-Stack Web3 Software Engineer</h3>
 
-- 🔭 I’m currently working on [Degenz Discord Dashboard](https://github.com/drake-nathan/degenz-discord-bot)
+- 🔭 I’m currently working on [Chainlife by Matto](https://chainlife.xyz)
 
-- 🌱 I’m currently learning **Discord.js**
+- 🌱 I’m currently learning **React Query**
 
 - 👨‍💻 My firm's website [www.drakewest.dev](www.drakewest.dev)
 

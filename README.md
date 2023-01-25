@@ -2,7 +2,7 @@
 <h3 align="center">A Full-Stack Web3 Software Engineer</h3>
 
 - 🔭 I’m currently working on **[Substratum by Matto](https://substratum.art/)**
-- 🌱 I’m currently learning **React Query**
+- 🌱 I’m currently learning **GraphQL/Apollo/Prisma**
 - 📫 How to reach me: **[nathan@drakewest.dev](mailto:nathan@drakewest.dev)**
 - ⚡ Live Projects:
   - **[Oblivion](https://oblivion.art/)**

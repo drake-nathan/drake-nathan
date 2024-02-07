@@ -2,12 +2,12 @@
 <h3 align="center">A Full-Stack Web3 Software Engineer</h3>
 
 - 🔭 I’m currently working on **[Substratum by Matto](https://substratum.art/)**
-- 🌱 I’m currently learning **GraphQL/Apollo/Prisma**
 - 📫 How to reach me: **[nathan@drakewest.dev](mailto:nathan@drakewest.dev)**
 - ⚡ Live Projects:
-  - **[Oblivion](https://oblivion.art/)**
+  - **[Substratum](https://substratum.art/)**
   - **[Chainlife by Matto](https://chainlife.xyz/)**
   - **[Hygienic Dress League](https://mint.hdlcorp.io)**
+  - **[Oblivion](https://oblivion.art/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
